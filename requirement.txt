@@ -1,0 +1,5 @@
+install langchain-google-genai
+langchain_core
+langgraph
+typing
+pydantic
